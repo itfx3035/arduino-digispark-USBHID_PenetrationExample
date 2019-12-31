@@ -1,0 +1,1 @@
+New-Item $HOME\Desktop\Gotcha!.txt -ItemType file -Value "Some payload can be executed instead of this."
